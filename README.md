@@ -1,18 +1,11 @@
 ### Mobile Flashcards Application
 ---------------------------------
-This Application allow user to creat new DECK,, Card, And teake multiple questions quizes.
-This app is the third of three projects required for [Udacity's React Nanodegree program].
-It uses React Native, React Navigation, Expo, Redux.
+Mobile Android application, built with React Native, that allows users to study collections of flashcards. The app will allow users to create different categories of flashcards called "decks", add flashcards to those decks, then take quizzes on those decks.
 
+This project encompasses the fundamental aspects of building a native application including handling infinite lists, routing, and user input.
 ### Installation
 ------------------
-After cloning the repo.
-1- Run "npm install"
-2- Run "expo start"
+After downloading the repository please run npm install or yarn install from inside the repository directory.
 
-### Testing
-### This project has been tested on:-
-----------------------------------
-- Andriod 6.0.1
+Once installed use npm start or yarn start to launch the project.
 
-- i have many issues for IOS emulators so i tested it only on Andriod (My Phone).
