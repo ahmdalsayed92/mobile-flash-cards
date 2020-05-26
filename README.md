@@ -9,3 +9,5 @@ After downloading the repository please run npm install or yarn install from ins
 
 Once installed use npm start or yarn start to launch the project.
 
+### Testing
+this app is tested on Android on a xiaomi note 6 pro Android 9
