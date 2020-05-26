@@ -11,3 +11,5 @@ Once installed use npm start or yarn start to launch the project.
 
 ### Testing
 this app is tested on Android on a xiaomi note 6 pro Android 9
+
+not tested on IOS or IOS emulators 
